@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "330841842863",
+    "project_id": "quiz-dd0fe",
+    "storage_bucket": "quiz-dd0fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330841842863:android:acc03bdd10dc534164a05a",
+        "android_client_info": {
+          "package_name": "com.fsre.quiz_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCelrbtRcOK4Pao5eOaSxbtW3R35vadzpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
